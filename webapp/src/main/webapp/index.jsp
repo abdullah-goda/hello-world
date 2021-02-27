@@ -7,4 +7,4 @@
 <h2>-----****--------****************-checking if the changes will be applied automatically after changing the ansible to delete previous containers Trial 51 </h2>
 <h2> Testing automation using jenkins and ansible playbook to deploy a container in a host docker system trial 1 </h2
 <h2>Deploy on kubernetes using ansible playbook trial 1 </h2>
-<h2> using ansible for val tech  </h2>
+<h2> using ansible for val tech trial 2 </h2>
